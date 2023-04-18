@@ -8,3 +8,7 @@
 first letter of every word is capitalized and removing whitespaces.
 
 4.Your_order_please - Sorting text by digit in the words.
+
+5.Mean_square_error - 
+
+6.
