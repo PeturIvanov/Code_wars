@@ -12,3 +12,6 @@ first letter of every word is capitalized and removing whitespaces.
 5.Mean_square_error -
 
 6.Disemvowel - Removing vowels from text.
+
+7.Descending_order - Sorting number using list comprehension in descending order.
+
