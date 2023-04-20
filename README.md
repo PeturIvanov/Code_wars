@@ -1,7 +1,7 @@
 # In this repository I upload some of my interesting functions of my Code wars training and train my GitHub skills.
 
 1.IPv4_address (Rank: 5kyu, Types: "ALGORITHMS", "NETWORKS", "BITS") - 
-    There you can find function that take unsigned 32bit int and convert it to IPv4 address.****
+    There you can find function that take unsigned 32bit int and convert it to IPv4 address.
 
 2.Sorting_weight (Rank: 5kyu, Types: "ALGORITHMS") - Create list of dictionaries then sorting them.
 
