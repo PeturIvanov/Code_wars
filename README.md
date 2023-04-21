@@ -21,3 +21,6 @@ first letter of every word is capitalized and removing whitespaces.
     Encoding text. If char appears only one time char = "(", else char = ")".
 
 9.ISBN-10 Validation (Rank: 5kyu, Types: "ALGORITHMS", "REGULAR EXPRESSIONS") - Validation for ISBN-10
+
+10.Count_the_smiley_faces! (Rank: 6kyu, Types: "REGULAR EXPRESSIONS") - 
+    Finding the count of smiley faces in array of emojis.
