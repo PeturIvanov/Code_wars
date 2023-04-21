@@ -24,3 +24,5 @@ first letter of every word is capitalized and removing whitespaces.
 
 10.Count_the_smiley_faces! (Rank: 6kyu, Types: "REGULAR EXPRESSIONS") - 
     Finding the count of smiley faces in array of emojis.
+
+11.Find_the_odd_count_int (Rank: 6kyu, Types: "FUNDAMENTALS") = Finding number that appear odd count times in array.
