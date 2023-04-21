@@ -20,3 +20,4 @@ first letter of every word is capitalized and removing whitespaces.
 8.Duplicate Encoder (Rank: 6kyu, Types: "ARRAYS", "STRINGS") - 
     Encoding text. If char appears only one time char = "(", else char = ")".
 
+9.ISBN-10 Validation (Rank: 5kyu, Types: "ALGORITHMS", "REGULAR EXPRESSIONS") - Validation for ISBN-10
