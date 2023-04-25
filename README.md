@@ -29,4 +29,9 @@ first letter of every word is capitalized and removing whitespaces.
 
 12.Find The Parity Outlier (Rank: 6kyu, Types: "ALGORITHMS") - ...
 
+13.Rope_Skipping_Game (Rank: 6kyu, Types: "PUZZLES") - Return how many times the kid jump for 60 seconds.
+    Numbers in the list is jump count at the failure. After failure the kid needs to tidy tha rope and lose 3sec.
+    It makes 1 jump per second.
+
+
 
