@@ -14,7 +14,3 @@ def tiaosheng(failed_counter):
     if time_left >= 0:
         total_jumps += time_left
     return total_jumps
-
-
-print(tiaosheng([10, 20, 30, 40, 47, 60]))
-
