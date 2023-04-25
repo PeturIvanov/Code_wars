@@ -1,3 +1,4 @@
+# This function accepts list of integers.
 def tiaosheng(failed_counter):
     total_jumps = 0
     time_left = 60
