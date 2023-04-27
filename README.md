@@ -35,5 +35,8 @@ first letter of every word is capitalized and removing whitespaces.
 
 14.Build Tower (Rank: 6kyu, Types: "FUNDAMENTALS", "ASCII ART") - Return the tower of stars with height of the given floors.
 
+15.Detect Pangram (Rank: 6kyu, Types: "DATA STRUCTURES", "STRINGS") - Return True if text is 
+    "Pangram"("Pangram" is text that contains every single letter of the alphabet at least once).
+
 
 
