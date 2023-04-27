@@ -41,4 +41,7 @@ first letter of every word is capitalized and removing whitespaces.
 16.Take a Ten Minutes Walk (Rank: 6kyu, Types: "ARRAYS", "FUNDAMENTALS") - 
     Return True if after the walk you are at your starting position.
 
+17.Powerset (Rank: 5kyu, Types: "ALGORITHMS") - Return all possible combinations in the list of integers.
+
+
 
