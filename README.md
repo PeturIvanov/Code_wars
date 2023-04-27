@@ -33,5 +33,7 @@ first letter of every word is capitalized and removing whitespaces.
     Numbers in the list is jump count at the failure. After failure the kid needs to tidy tha rope and lose 3sec.
     It makes 1 jump per second.
 
+14.Build Tower (Rank: 6kyu, Types: "FUNDAMENTALS", "ASCII ART") - Return the tower of stars with height of the given floors.
+
 
 
