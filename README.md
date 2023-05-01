@@ -45,6 +45,8 @@ first letter of every word is capitalized and removing whitespaces.
 
 18.Who likes it? (Rank: 6kyu, Types: "FUNDAMENTALS", "STRINGS") - Return text with names who like the post.
 
+19.Find_the_missing_letter.py (Rank: 6kyu, Types: "ALGORITHMS", "MATHEMATICS") - Returns the missing letter in the array.
+
 
 
 
