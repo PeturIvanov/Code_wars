@@ -43,5 +43,8 @@ first letter of every word is capitalized and removing whitespaces.
 
 17.Powerset (Rank: 5kyu, Types: "ALGORITHMS") - Return all possible combinations in the list of integers.
 
+18.Who likes it? (Rank: 6kyu, Types: "FUNDAMENTALS", "STRINGS") - Return text with names who like the post.
+
+
 
 
